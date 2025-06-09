@@ -33,7 +33,7 @@ This project is a prototype for a local, voice-driven conversational AI. It uses
 
 4.  **Run the Application**:
     ```bash
-    python main.py
+    python main.py --voice
     ```
 
 ## Development Steps (Based on User Blueprint)
